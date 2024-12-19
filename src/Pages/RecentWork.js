@@ -27,8 +27,8 @@ const RecentWork = () => {
                     <div class="card-body">
                         <h2 class="card-title">Coders Clinic</h2>
                         <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_1" class="btn btn-outline btn-accent">Overview</label>
+                        <div class="card-actions ">
+                        <label for="my_modal_1" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_1" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -43,8 +43,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_1">Close</label>
                         </div>
-                        <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -55,10 +55,10 @@ const RecentWork = () => {
                     <div class="card-body ">
                         <h2 class="card-title">Mughal Resturant </h2>
                         <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, Python, Django.</h1>
-                        <div class="card-actions justify-end">
+                        <div class="card-actions ">
                             
 
-                        <label for="my_modal_2" class="btn btn-outline btn-accent">Overview</label>
+                        <label for="my_modal_2" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_2" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -75,8 +75,8 @@ const RecentWork = () => {
                         </div>
 
 
-                        <a href=" https://github.com/Soroar-Mia/manufacturer-website-client" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://66dda6065363bf42322672e9--voluble-pasca-f99c82.netlify.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href=" https://github.com/Soroar-Mia/manufacturer-website-client" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://stunning-churros-2e0369.netlify.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -87,8 +87,8 @@ const RecentWork = () => {
                     <div class="card-body">
                         <h2 class="card-title">SR-Property</h2>
                         <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, Python, Django.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_3" class="btn btn-outline btn-accent">Overview</label>
+                        <div class="card-actions ">
+                        <label for="my_modal_3" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_3" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -103,8 +103,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_3">Close</label>
                         </div>
-                        <a href="https://github.com/Soroar-Mia/sr_property" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://jade-seahorse-b8e2aa.netlify.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/Soroar-Mia/sr_property" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://jade-seahorse-b8e2aa.netlify.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -113,10 +113,10 @@ const RecentWork = () => {
                     <div class="card  bg-base-100 shadow-xl scale">
                     <figure><img src={p3} alt="Shoes" /></figure>
                     <div class="card-body">
-                        <h2 class="card-title">Independent Service Provider</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_4" class="btn btn-outline btn-accent">Overview</label>
+                        <h2 class="card-title">Soroar Furniture</h2>
+                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_4" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_4" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -131,8 +131,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_4">Close</label>
                         </div>
-                        <a href=" https://github.com/Soroar-Mia/independent-service-provider" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href=" https://private-tutor-c96e1.web.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href=" https://github.com/Soroar-Mia/Soroar-Furniture" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href=" https://soroar-furniture.vercel.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -141,10 +141,10 @@ const RecentWork = () => {
                     <div class="card  bg-base-100 shadow-xl scale">
                     <figure><img src={p4} alt="Shoes" /></figure>
                     <div class="card-body">
-                        <h2 class="card-title">BEST CAR PARTS</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_5" class="btn btn-outline btn-accent">Overview</label>
+                        <h2 class="card-title">Sakola School</h2>
+                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_5" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_5" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -159,8 +159,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_5">Close</label>
                         </div>
-                        <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/Soroar-Mia/Sakola-landing-page" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://timely-kulfi-6acc6f.netlify.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -170,9 +170,9 @@ const RecentWork = () => {
                     <figure><img src={p5} alt="Shoes" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">Books Shop</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_6" class="btn btn-outline btn-accent">Overview</label>
+                        <h1>Technology Used: HTML, CSS, Bootstrap, JavaScript.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_6" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_6" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -187,8 +187,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_6">Close</label>
                         </div>
-                        <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/akilinjamam/coders-clinic" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://coders-clinic-fc76f.web.app/" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -198,9 +198,9 @@ const RecentWork = () => {
                     <figure><img src={p7} alt="Shoes" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">Select Best Five Player</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_7" class="btn btn-outline btn-accent">Overview</label>
+                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_7" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_7" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -215,8 +215,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_7">Close</label>
                         </div>
-                        <a href="https://github.com/Soroar-Mia/Select-Best-Five-Player" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://effortless-snickerdoodle-48d55c.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/Soroar-Mia/Select-Best-Five-Player" class="btn btn-sm  btn-primary">GITHUB</a>
+                        <a href="https://effortless-snickerdoodle-48d55c.netlify.app" class="btn  btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -226,9 +226,9 @@ const RecentWork = () => {
                     <figure><img src={p8} alt="Shoes" /></figure>
                     <div class="card-body mb-5">
                         <h2 class="card-title ">Bank Balance Calcuation</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_8" class="btn btn-outline btn-accent">Overview</label>
+                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_8" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_8" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -243,8 +243,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_8">Close</label>
                         </div>
-                        <a href="https://github.com/Soroar-Mia/Baper-Bank" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://timely-sopapillas-6633a0.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/Soroar-Mia/Baper-Bank" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://timely-sopapillas-6633a0.netlify.app" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>
@@ -254,9 +254,9 @@ const RecentWork = () => {
                     <figure><img src={p9} alt="Shoes" /></figure>
                     <div class="card-body">
                         <h2 class="card-title">News Todayc</h2>
-                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase, Heroku.</h1>
-                        <div class="card-actions justify-end">
-                        <label for="my_modal_9" class="btn btn-outline btn-accent">Overview</label>
+                        <h1>Technology Used: HTML, CSS, Tailwind, JavaScript, React, MongoDB, Firebase.</h1>
+                        <div class="card-actions ">
+                        <label for="my_modal_9" class="btn btn-sm btn-accent">Overview</label>
 
                         <input type="checkbox" id="my_modal_9" class="modal-toggle" />
                         <div class="modal" role="dialog">
@@ -271,8 +271,8 @@ const RecentWork = () => {
                         </div>
                         <label class="modal-backdrop" for="my_modal_9">Close</label>
                         </div>
-                        <a href="https://github.com/Soroar-Mia/News-Todayc" class="btn btn-outline btn-primary">GITHUB</a>
-                        <a href="https://silly-mochi-063936.netlify.app" class="btn btn-outline btn-secondary">LIVE DEMO</a>
+                        <a href="https://github.com/Soroar-Mia/News-Todayc" class="btn btn-sm btn-primary">GITHUB</a>
+                        <a href="https://silly-mochi-063936.netlify.app" class="btn btn-sm btn-secondary">LIVE DEMO</a>
                         </div>
                     </div>
                     </div>

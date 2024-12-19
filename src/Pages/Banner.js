@@ -29,7 +29,7 @@ const Banner = () => {
                 <div className="top"><a href="https://drive.google.com/file/d/1vq3-AbNPlJSWIF5Md70u4_7TJ2VTQ_4b/view?usp=sharing">RESUME</a></div>
                 <div className="bottom"></div>
               </button>
-              <button className='ml-7' type="button">
+              <button className='md:ml-7 lg:ml-9 sm:mt-6' type="button">
                 <div className="top"><a href="" >LETS TALK</a></div>
                 <div className="bottom"></div>
               </button>
@@ -39,9 +39,7 @@ const Banner = () => {
               
 
         </div>
-        <div className="sm:w-1/2" >
-          <img src={soroar1} className="w-50 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 " alt=''/>
-        </div>
+
       </div>
     </div>
         </div>
